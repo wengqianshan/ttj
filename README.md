@@ -56,26 +56,6 @@ Verbose output:
 npx ttj -d src --verbose
 ```
 
-## Dependencies
-
-- [@babel/core](https://www.npmjs.com/package/@babel/core)
-- [@babel/plugin-transform-typescript](https://www.npmjs.com/package/@babel/plugin-transform-typescript)
-- [commander](https://www.npmjs.com/package/commander)
-- [recast](https://www.npmjs.com/package/recast)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://grok.com/chat/LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Create a Pull Request
-
-## Issues
-
-Report bugs or suggest features by creating an issue in the repository.
