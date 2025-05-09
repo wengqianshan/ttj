@@ -1,0 +1,32 @@
+{
+  "name": "ttj",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "ttj": "./index.js"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "converter",
+    "cli",
+    "tsx",
+    "jsx"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.27.1",
+    "@babel/plugin-transform-typescript": "^7.27.1",
+    "commander": "^13.1.0",
+    "recast": "^0.23.11"
+  }
+}
