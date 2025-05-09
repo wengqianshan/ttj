@@ -2,8 +2,9 @@
   "name": "ttj",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
+  "license": "MIT",
+  "author": "wengqianshan",
+  "repository": "https://github.com/wengqianshan/ttj.git",
   "type": "module",
   "main": "index.js",
   "bin": {
