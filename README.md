@@ -59,3 +59,11 @@ npx ttj -d src --verbose
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://grok.com/chat/LICENSE) file for details.
+
+## Acknowledgements
+
+This project was inspired by and built with reference to the following amazing projects:
+
+- [ritz078/transform](https://github.com/ritz078/transform)
+
+A big thank you to the maintainers and contributors of these projects!
